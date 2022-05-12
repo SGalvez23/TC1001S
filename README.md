@@ -1,7 +1,8 @@
-#Repo GIT para la clase TC1001S
+##Repo GIT para la clase TC1001S
+Herramientas Computacionales: El Arte de la Programacion
 
 ##Nombre
-Sebastian Galvez
+Sebastian Galvez Trujillo
 
 ##Matricula
 A01251884
